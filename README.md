@@ -3,7 +3,7 @@
 ## Introduction
 I want to express my gratitude to Luke Barousse for providing the dataset, which serves as the foundation for this data cleaning, analysis, and visualization project downloaded from Kaggle.
 
-###Welcome to this insightful dashboard designed to guide and empower your journey into the dynamic field of data science. 
+### Welcome to this insightful dashboard designed to guide and empower your journey into the dynamic field of data science. 
 This tool is crafted for individuals eager to evolve and align their skills with the current demands of the sector. As I embark on a similar learning path, I envisioned creating a resource that streamlines the process for others.
 
 Let's delve into the structure of this dashboard, which carefully assesses various metrics, starting with 'Jobs per Month.' This metric provides a snapshot of the job market, showcasing the number of vacancies generated each month since November 2022. The 'Salaries per Month' chart tracks salary trends across different sectors. The lower line represents the minimum salary, while the upper line reflects the maximum, offering a comprehensive view of salary ranges.
