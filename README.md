@@ -2,6 +2,15 @@
 
 ## Introduction
 I want to express my gratitude to Luke Barousse for providing the dataset, which serves as the foundation for this data cleaning, analysis, and visualization project downloaded from Kaggle.
+
+###Welcome to this insightful dashboard designed to guide and empower your journey into the dynamic field of data science. 
+This tool is crafted for individuals eager to evolve and align their skills with the current demands of the sector. As I embark on a similar learning path, I envisioned creating a resource that streamlines the process for others.
+
+Let's delve into the structure of this dashboard, which carefully assesses various metrics, starting with 'Jobs per Month.' This metric provides a snapshot of the job market, showcasing the number of vacancies generated each month since November 2022. The 'Salaries per Month' chart tracks salary trends across different sectors. The lower line represents the minimum salary, while the upper line reflects the maximum, offering a comprehensive view of salary ranges.
+
+To further refine your strategy, the dashboard includes information on the educational requirements for positions, differentiating between those requiring a university degree and the nature of work (in-person or remote). The radar chart spotlights the top six skills associated with each job title, serving as a roadmap for skill development.
+
+Concluding the journey, two informative charts highlight the top employers in terms of job postings and the prominent platforms hosting these opportunities. This holistic approach aims to guide you directly towards your goals, providing a clear path for skill acquisition and professional growth. Enjoy exploring the wealth of information this dashboard has to offer!
 ![Στιγμιότυπο οθόνης 2024-02-05 114905](https://github.com/st9ho3/Data_Science_Job_Posts_Dashboard/assets/148724871/a8df464e-78a5-47b8-8e83-33655013e1d0)
 
 ## Data Cleaning
