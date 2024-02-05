@@ -11,6 +11,8 @@ Let's delve into the structure of this dashboard, which carefully assesses vario
 To further refine your strategy, the dashboard includes information on the educational requirements for positions, differentiating between those requiring a university degree and the nature of work (in-person or remote). The radar chart spotlights the top six skills associated with each job title, serving as a roadmap for skill development.
 
 Concluding the journey, two informative charts highlight the top employers in terms of job postings and the prominent platforms hosting these opportunities. This holistic approach aims to guide you directly towards your goals, providing a clear path for skill acquisition and professional growth. Enjoy exploring the wealth of data!
+
+
 ![Στιγμιότυπο οθόνης 2024-02-05 114905](https://github.com/st9ho3/Data_Science_Job_Posts_Dashboard/assets/148724871/a8df464e-78a5-47b8-8e83-33655013e1d0)
 
 ## Data Cleaning
