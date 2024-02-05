@@ -2,6 +2,7 @@
 
 ## Introduction
 I want to express my gratitude to Luke Barousse for providing the dataset, which serves as the foundation for this data cleaning, analysis, and visualization project downloaded from Kaggle.
+![Στιγμιότυπο οθόνης 2024-02-05 103052](https://github.com/st9ho3/Data_Science_Job_Posts_Dashboard/assets/148724871/9a6b8e78-5bf3-475d-a8c2-7bd216ff0ce0)
 
 ## Data Cleaning
 
